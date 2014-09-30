@@ -1,6 +1,6 @@
 ## Space Wars: A Game of Interplanetary Exploration and Conquest
 
-Space Wars is a 3D turn-based strategy game. Ready to conquer some planets?
+Space Wars is a 3D turn-based strategy game. Ready to conquer some planets? Of course you are: [Go play the game!](http://kohlmannj.github.io/spacewars)
 
 ### Source Layout
 
